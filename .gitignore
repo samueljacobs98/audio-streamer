@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+*.log
+package-lock.json
+
+# Express
+.env
+
+# htmx
+.htmx-cache/
+
+# Song files
+public/songs/
